@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\graph-algorithms-visualizer",
+    "\\graph-algorithms-visualizer\\src",
+    "\\graph-algorithms-visualizer\\src\\main",
+    "\\graph-algorithms-visualizer\\src\\main\\java",
+    "\\graph-algorithms-visualizer\\src\\main\\java\\com",
+    "\\graph-algorithms-visualizer\\src\\main\\java\\com\\graphvisualizer",
+    "\\graph-algorithms-visualizer\\src\\main\\java\\com\\graphvisualizer\\algorithms"
+  ],
+  "SelectedNode": "\\graph-algorithms-visualizer\\src\\main\\java\\com\\graphvisualizer\\algorithms\\Dijkstra.java",
+  "PreviewInSolutionExplorer": false
+}
